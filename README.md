@@ -162,6 +162,12 @@ This documentation outlines the steps to set up the project, including:
 - Provide the full path to the Excel file in the application configuration.
 
 ---
+## Demo video
+
+
+https://github.com/user-attachments/assets/3ed1f0e3-becd-45ec-9578-8c842e592492
+
+
 
 ## References
 
